@@ -1,0 +1,32 @@
+<?php
+
+return [
+    'janice_price_provider' => 'Janice.e-351 Price Provider',
+    'edit_price_provider' => 'Edit Price Provider',
+    'edit_price_provider_success' => 'Successfully edited price provider.',
+    'immediate' => 'Immediate',
+    '5percent' => '5% Average',
+    'apikey' => 'API Key',
+    'apikey_description' => 'APIs require an api key, you can get one by sending me PM (https://discord.com/invite/7McHR3r). Reason for having own api key is so that I can contact people with excessive traffic.',
+    'region' => 'Region',
+    'timeout_placeholder' => 'Enter a timeout in seconds',
+    'timeout' => 'API Request Timeout (seconds)',
+    'cache' => 'Cache Time (hours)',
+    'timeout_description' => 'If Janice\' API doesn\'t respond within this time, an error will be thrown.',
+    'price_type' => 'Price Type',
+    'sell' => 'Sell',
+    'buy' => 'Buy',
+    'split' => 'Split',
+    'sell5' => 'Sell (5 Day Median)',
+    'buy5' => 'Buy (5 Day Median)',
+    'split5' => 'Split (5 Day Median)',
+    'sell30' => 'Sell (30 Day Median)',
+    'buy30' => 'Buy (30 Day Median)',
+    'split30' => 'Split (30 Day Median)',
+    'price_variant' => 'Price Variant',
+    'max'=>'Maximum',
+    'min'=>'Minimum',
+    'avg'=>'Weighted Average',
+    'median'=>'Median',
+    'percentile'=>'Percentile'
+];
